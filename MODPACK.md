@@ -9,5 +9,6 @@ You're never safe, but magic is on your side! Slay the monsters, defeat the drag
 - [Replay Mod](https://modrinth.com/mod/replaymod)
 
 # Licenses
+Included Mods - The included mods adhere to the licensing terms specified on their project pages.                     
 Modpack - CC-BY 4.0 (Creative Commons Attribution 4.0)                     
 Modpack Resources Mod - Public Domain
