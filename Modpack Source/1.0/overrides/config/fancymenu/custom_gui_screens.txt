@@ -1,0 +1,11 @@
+type = custom_gui_screens
+
+overridden_screens {
+}
+
+custom_gui {
+  identifier = options.modpack.info
+  title = Modpack
+  allow_esc = true
+}
+
