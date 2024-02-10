@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "magicallands",
+  "version": "1.1.0",
+  "name": "Magical Lands - Modpack Resources Mod",
+  "authors": [
+    "JustMili"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/modpack/magical-lands",
+    "sources": ""
+  },
+  "license": "Public Domain",
+  "icon": "assets/magicallands/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.justmili.magicallands.MagicallandsMod"
+    ],
+    "client": [
+      "net.justmili.magicallands.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  }
+}
