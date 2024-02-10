@@ -1,0 +1,12 @@
+{
+	// Upper bound of Ashes of the Stars (Default: 50)
+	"ashes_upper_bound": 50,
+	// Distance from 0,0 below which Hexblades will not invade in the Glass Ocean (Default: 0)
+	"hexblade_grace": 0,
+	// Damage multiplier for spin attacks (eg: Whirlwind) (Default: 1.0)
+	"spin_attack_coeff": 1.0,
+	// Hexblade module (Default: TRUE)
+	"hexblade_on": true,
+	// Reactive ward regen rate coefficient (Default: 1.0)
+	"wardrate": 1.0
+}

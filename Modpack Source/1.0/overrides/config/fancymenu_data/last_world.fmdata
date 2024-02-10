@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/rodx1/AppData/Roaming/com.modrinth.theseus/profiles/Magical Lands/saves/New World (1)
+}
+
