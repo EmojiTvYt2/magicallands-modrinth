@@ -1,0 +1,130 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = options.modpack.info
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1706307582144
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:c62f1911-d0f9-44e7-941c-013bc2f8056b-1706307196922] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/title.png
+  element_type = image
+  instance_identifier = 8caea18d-b697-4787-9716-14273c06441a-1706306186337
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -128
+  y = -143
+  width = 256
+  height = 64
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 72254ec8-b8d9-487d-b153-e1b559b7ae1c-1706306186337
+  [loading_requirement_container_meta:72254ec8-b8d9-487d-b153-e1b559b7ae1c-1706306186337] = [groups:][instances:]
+}
+
+element {
+  interactable = false
+  source = [source:local]/config/fancymenu/assets/info.txt
+  source_mode = resource
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 2eea446c-0102-4d9b-9a27-ad6115a31b8b-1706306337574
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -230
+  y = -77
+  width = 460
+  height = 25
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = b0e6d39b-6265-4afc-b876-8af16b80a6f0-1706306337573
+  [loading_requirement_container_meta:b0e6d39b-6265-4afc-b876-8af16b80a6f0-1706306337573] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = [source:local]/config/fancymenu/assets/info_main.txt
+  source_mode = resource
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 09ca2171-b374-4372-88ad-71a8889d717c-1706307019841
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -314
+  y = -47
+  width = 628
+  height = 207
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = cf7a343d-5a8a-43ba-adff-89b13c3ecd12-1706307019841
+  [loading_requirement_container_meta:cf7a343d-5a8a-43ba-adff-89b13c3ecd12-1706307019841] = [groups:][instances:]
+}
+
