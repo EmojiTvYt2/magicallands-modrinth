@@ -7,3 +7,7 @@ You're never safe, but magic is on your side! Slay the monsters, defeat the drag
 - [Essential](https://modrinth.com/mod/essential)
 - [Freecam](https://modrinth.com/mod/freecam)
 - [Replay Mod](https://modrinth.com/mod/replaymod)
+
+# Licenses
+Modpack               - CC-BY 4.0 (Creative Commons Attribution 4.0)
+Modpack Resources Mod - Public Domain
